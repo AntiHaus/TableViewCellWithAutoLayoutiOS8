@@ -1,5 +1,6 @@
 TableViewCellWithAutoLayoutiOS8
 ===========================
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/AntiHaus/TableViewCellWithAutoLayoutiOS8?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 *Note: This sample project requires __Xcode 6__ and __iOS 8__. For a sample project demonstrating the iOS 7 compatible implementation, [click here](https://github.com/smileyborg/TableViewCellWithAutoLayout).*
 
